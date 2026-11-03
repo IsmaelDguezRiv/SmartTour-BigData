@@ -1,6 +1,10 @@
 CREATE TABLE municipios (
-
-
-
-    
-)
+    cod_municipio INT PRIMARY KEY,
+    municipio VARCHAR(150) NOT NULL,
+    provincia VARCHAR(150) NOT NULL,
+    cod_provincia INT NOT NULL,
+    cod_ine VARCHAR(15) NOT NULL,
+    poblacion INT NOT NULL,
+    longitud DECIMAL(11, 8) NOT NULL,
+    latitud DECIMAL(11, 8) NOT NULL
+);
