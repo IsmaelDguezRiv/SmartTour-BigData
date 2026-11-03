@@ -1,0 +1,100 @@
+,id_cliente,nombre,ciudad,fecha_alta,id_venta,producto,cantidad,importe,email
+0,1037,Rosa,Segovia,2024-09-15,10090.0,SSD Kingston 480GB,2.0,79.0,rosa1037@email.com
+1,1027,Carmen,Vigo,2024-11-20,10006.0,Tablet Lenovo 10,4.0,716.0,carmen1027@email.com
+2,1080,Elena,Murcia,2024-05-06,10029.0,Portatil HP 15,4.0,2396.0,elena1080@email.com
+3,1093,Ainhoa,,2024-10-02,10016.0,Webcam Full HD,2.0,69.8,ainhoa1093@email.com
+4,1050,Javier,Murcia,2024-05-31,10081.0,SSD Kingston 480GB,1.0,39.5,javier1050@email.com
+5,1017,Hugo,Vigo,2024-08-11,10057.0,Webcam Full HD,1.0,34.9,hugo1017@email.com
+6,1095,Teresa,Murcia,2024-05-04,10086.0,Teclado mecanico,3.0,136.5,teresa1095@email.com
+7,1072,Sergio,Valencia,2024-12-05,10011.0,Raton inalambrico,1.0,14.99,sergio1072@email.com
+8,1088,Julia,Segovia,2024-08-07,10063.0,Auriculares JBL,3.0,119.7,julia1088@email.com
+9,1023,Ruben,Toledo,2024-11-12,10022.0,Monitor Samsung 24,1.0,129.9,ruben1023@email.com
+10,1015,Laura,Madrid,2024-08-12,10012.0,Mochila portatil,2.0,49.9,laura1015@email.com
+11,1040,Ivan,Sevilla,2024-03-22,10028.0,SSD Kingston 480GB,2.0,79.0,
+12,1053,Laura,Burgos,2024-06-14,10097.0,Impresora Canon,4.0,356.0,laura1053@email.com
+13,1014,Lucia,Burgos,2024-10-24,,,,,lucia1014@email.com
+14,1090,Carlos,Valencia,2024-05-20,10049.0,Portatil HP 15,1.0,599.0,carlos1090@email.com
+15,1046,Julia,Valencia,2024-07-02,10009.0,Raton inalambrico,3.0,44.97,julia1046@email.com
+16,1013,Nerea,Malaga,2024-08-26,10032.0,Portatil HP 15,4.0,2396.0,nerea1013@email.com
+17,1067,Clara,Salamanca,2024-05-25,10054.0,Auriculares JBL,5.0,199.5,clara1067@email.com
+18,1021,Noelia,Segovia,2024-03-05,10004.0,Mochila portatil,5.0,124.75,noelia1021@email.com
+19,1019,Nerea,Vigo,2024-07-17,10041.0,Portatil HP 15,1.0,599.0,nerea1019@email.com
+20,1051,Ruben,Granada,2024-04-04,10008.0,Portatil HP 15,3.0,1797.0,ruben1051@email.com
+21,1003,Sergio,Valladolid,2024-04-15,10073.0,SSD Kingston 480GB,5.0,197.5,sergio1003@email.com
+22,1018,Beatriz,Bilbao,2024-10-16,10091.0,Raton inalambrico,4.0,59.96,beatriz1018@email.com
+23,1087,Victor,Sevilla,2024-07-11,10089.0,Impresora Canon,2.0,178.0,victor1087@email.com
+24,1007,Rosa,Zaragoza,2024-06-11,,,,,rosa1007@email.com
+25,1098,Hugo,Valencia,2024-07-28,10030.0,Teclado mecanico,4.0,182.0,hugo1098@email.com
+26,1052,Patricia,Madrid,2024-07-11,10059.0,Auriculares JBL,1.0,39.9,patricia1052@email.com
+27,1031,Pablo,Valencia,2024-08-02,10023.0,Teclado mecanico,3.0,136.5,pablo1031@email.com
+28,1075,Rosa,Burgos,2024-10-03,10079.0,Tablet Lenovo 10,1.0,179.0,rosa1075@email.com
+29,1097,Pablo,Valladolid,2024-03-23,10061.0,Tablet Lenovo 10,1.0,179.0,pablo1097@email.com
+30,1066,Adrian,Bilbao,2024-10-24,10034.0,Mochila portatil,1.0,24.95,adrian1066@email.com
+31,1066,Adrian,Bilbao,2024-10-24,10069.0,Monitor Samsung 24,4.0,519.6,adrian1066@email.com
+32,1055,Marta,Sevilla,2024-09-23,10037.0,Impresora Canon,1.0,89.0,marta1055@email.com
+33,1028,Clara,Zaragoza,2024-08-17,10044.0,Raton inalambrico,5.0,74.95,clara1028@email.com
+34,1059,Sofia,Valencia,2024-07-16,10100.0,Portatil HP 15,4.0,2396.0,sofia1059@email.com
+35,1034,Lucia,Alicante,2024-03-30,10068.0,SSD Kingston 480GB,4.0,158.0,lucia1034@email.com
+36,1044,Iker,Bilbao,2024-05-21,10021.0,Auriculares JBL,4.0,159.6,iker1044@email.com
+37,1044,Iker,Bilbao,2024-05-21,10084.0,Tablet Lenovo 10,2.0,358.0,iker1044@email.com
+38,1036,Oscar,Alicante,2024-11-10,10045.0,Raton inalambrico,5.0,74.95,oscar1036@email.com
+39,1022,Sergio,Valladolid,2024-03-29,10052.0,Portatil HP 15,5.0,2995.0,sergio1022@email.com
+40,1033,Ivan,Malaga,2024-05-10,10082.0,Portatil HP 15,3.0,1797.0,ivan1033@email.com
+41,1071,Carlos,Valladolid,2024-08-24,10085.0,SSD Kingston 480GB,1.0,39.5,carlos1071@email.com
+42,1063,Sergio,Burgos,2024-10-04,10060.0,Portatil HP 15,1.0,599.0,sergio1063@email.com
+43,1100,Marcos,Valencia,2024-03-20,10020.0,Auriculares JBL,3.0,119.7,marcos1100@email.com
+44,1074,Carlos,Vigo,2024-06-07,10019.0,Portatil HP 15,4.0,2396.0,carlos1074@email.com
+45,1060,Sofia,Malaga,2024-11-18,10078.0,Portatil HP 15,4.0,2396.0,sofia1060@email.com
+46,1041,Paula,Segovia,2024-10-20,10001.0,Monitor Samsung 24,2.0,259.8,paula1041@email.com
+47,1012,Sonia,,2024-03-13,10035.0,Raton inalambrico,2.0,29.98,sonia1012@email.com
+48,1078,Rosa,Murcia,2024-03-22,10005.0,Raton inalambrico,4.0,59.96,rosa1078@email.com
+49,1096,Adrian,Burgos,2024-10-28,10018.0,Portatil HP 15,5.0,2995.0,adrian1096@email.com
+50,1029,Beatriz,Burgos,2024-03-23,10015.0,Impresora Canon,4.0,356.0,beatriz1029@email.com
+51,1082,Beatriz,Murcia,2024-09-17,10033.0,Teclado mecanico,3.0,136.5,beatriz1082@email.com
+52,1030,Miguel,Cordoba,2024-01-08,10058.0,Raton inalambrico,5.0,74.95,miguel1030@email.com
+53,1032,Marta,Vigo,2024-01-26,10031.0,Tablet Lenovo 10,2.0,358.0,marta1032@email.com
+54,1083,Beatriz,Granada,2024-04-23,10088.0,Mochila portatil,4.0,99.8,beatriz1083@email.com
+55,1002,Noelia,Cordoba,2024-11-11,10055.0,Mochila portatil,1.0,24.95,noelia1002@email.com
+56,1086,Adrian,Cordoba,2024-11-07,10093.0,Monitor Samsung 24,4.0,519.6,adrian1086@email.com
+57,1079,Sofia,Sevilla,2024-04-12,10026.0,Monitor Samsung 24,5.0,649.5,sofia1079@email.com
+58,1089,Lucia,Zaragoza,2024-05-18,10007.0,Raton inalambrico,1.0,14.99,lucia1089@email.com
+59,1004,Hugo,Burgos,2024-07-29,,,,,hugo1004@email.com
+60,1091,Laura,Sevilla,2024-07-02,10010.0,SSD Kingston 480GB,5.0,197.5,laura1091@email.com
+61,1092,Javier,Toledo,2024-01-07,10046.0,Raton inalambrico,5.0,74.95,javier1092@email.com
+62,1011,Paula,Cordoba,2024-09-09,10013.0,Monitor Samsung 24,5.0,649.5,paula1011@email.com
+63,1047,Paula,Murcia,2024-05-26,10077.0,Impresora Canon,4.0,356.0,paula1047@email.com
+64,1006,Carlos,Alicante,2024-03-12,10017.0,Webcam Full HD,3.0,104.7,carlos1006@email.com
+65,1038,Sofia,Madrid,2024-05-19,10067.0,Portatil HP 15,4.0,2396.0,sofia1038@email.com
+66,1035,Luis,Bilbao,2024-05-09,10027.0,Mochila portatil,3.0,74.85,luis1035@email.com
+67,1065,Ivan,Salamanca,2024-05-21,10099.0,Auriculares JBL,3.0,119.7,ivan1065@email.com
+68,1062,Elena,Toledo,2024-05-11,10025.0,Teclado mecanico,5.0,227.5,elena1062@email.com
+69,1054,Carmen,Valladolid,2024-05-10,10070.0,Auriculares JBL,5.0,199.5,carmen1054@email.com
+70,1081,Pablo,Murcia,2024-09-23,10042.0,Impresora Canon,1.0,89.0,pablo1081@email.com
+71,1025,Jorge,Malaga,2024-01-15,10076.0,Impresora Canon,5.0,445.0,jorge1025@email.com
+72,1057,Laura,Segovia,2024-03-07,10024.0,Mochila portatil,3.0,74.85,laura1057@email.com
+73,1070,Rosa,Burgos,2024-08-04,10062.0,Monitor Samsung 24,1.0,129.9,rosa1070@email.com
+74,1064,Carmen,Valencia,2024-02-26,10043.0,SSD Kingston 480GB,1.0,39.5,carmen1064@email.com
+75,1084,Marta,Murcia,2024-11-23,10048.0,Mochila portatil,5.0,124.75,
+76,1061,Daniel,Valencia,2024-07-14,10075.0,Raton inalambrico,1.0,14.99,daniel1061@email.com
+77,1020,Jorge,Valencia,2024-10-23,10002.0,Raton inalambrico,1.0,14.99,jorge1020@email.com
+78,1008,Ainhoa,Valencia,2024-01-10,10047.0,SSD Kingston 480GB,2.0,79.0,ainhoa1008@email.com
+79,1056,Carmen,Alicante,2024-05-16,10051.0,Monitor Samsung 24,4.0,519.6,carmen1056@email.com
+80,1076,Nerea,Salamanca,2024-06-10,10053.0,Impresora Canon,3.0,267.0,nerea1076@email.com
+81,1001,Patricia,Bilbao,2024-05-15,10095.0,Portatil HP 15,4.0,2396.0,patricia1001@email.com
+82,1045,Victor,Granada,2024-06-11,10071.0,Teclado mecanico,2.0,91.0,victor1045@email.com
+83,1009,Nerea,Malaga,2024-10-18,10092.0,Portatil HP 15,1.0,599.0,nerea1009@email.com
+84,1049,Beatriz,Malaga,2024-03-09,10066.0,Webcam Full HD,5.0,174.5,beatriz1049@email.com
+85,1099,Rocio,Alicante,2024-07-15,10072.0,Auriculares JBL,2.0,79.8,rocio1099@email.com
+86,1039,Paula,Burgos,2024-02-25,10039.0,Auriculares JBL,4.0,159.6,paula1039@email.com
+87,1010,Beatriz,Malaga,2024-11-06,10036.0,Impresora Canon,2.0,178.0,beatriz1010@email.com
+88,1043,Beatriz,Toledo,2024-05-06,10098.0,Mochila portatil,4.0,99.8,beatriz1043@email.com
+89,1073,Rosa,Bilbao,2024-10-23,10056.0,Webcam Full HD,1.0,34.9,rosa1073@email.com
+90,1016,Ruben,Zaragoza,2024-05-02,10074.0,Teclado mecanico,2.0,91.0,ruben1016@email.com
+91,1058,Silvia,,2024-10-28,10096.0,Raton inalambrico,2.0,29.98,silvia1058@email.com
+92,1094,Ivan,Valencia,2024-03-13,10003.0,Impresora Canon,1.0,89.0,ivan1094@email.com
+93,1024,Sofia,Madrid,2024-10-13,10083.0,Tablet Lenovo 10,2.0,358.0,sofia1024@email.com
+94,1085,Marcos,Sevilla,2024-02-29,10040.0,Tablet Lenovo 10,5.0,895.0,marcos1085@email.com
+95,1068,Jorge,Cordoba,2024-07-05,10094.0,Mochila portatil,1.0,24.95,jorge1068@email.com
+96,1026,Jorge,Zaragoza,2024-11-26,10065.0,Mochila portatil,4.0,99.8,jorge1026@email.com
+97,1069,Lucia,Sevilla,2024-08-26,10014.0,Raton inalambrico,4.0,59.96,lucia1069@email.com
+98,1048,Carmen,Salamanca,2024-05-14,10080.0,Mochila portatil,5.0,124.75,carmen1048@email.com
